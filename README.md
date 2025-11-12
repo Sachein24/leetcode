@@ -35,6 +35,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Sachein24/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sachein24/leetcode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sachein24/leetcode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sachein24/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
