@@ -9,12 +9,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachein24/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sachein24/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sachein24/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sachein24/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sachein24/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sachein24/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sachein24/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -39,10 +41,12 @@
 | [0125-valid-palindrome](https://github.com/Sachein24/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Sachein24/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sachein24/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sachein24/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +61,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachein24/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
