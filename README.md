@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Sachein24/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sachein24/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0706-design-hashmap](https://github.com/Sachein24/leetcode/tree/master/0706-design-hashmap) |
 | [1480-running-sum-of-1d-array](https://github.com/Sachein24/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sachein24/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | [0202-happy-number](https://github.com/Sachein24/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sachein24/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0706-design-hashmap](https://github.com/Sachein24/leetcode/tree/master/0706-design-hashmap) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Sachein24/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Dynamic Programming
 |  |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachein24/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0706-design-hashmap](https://github.com/Sachein24/leetcode/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +100,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sachein24/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Sachein24/leetcode/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Sachein24/leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
