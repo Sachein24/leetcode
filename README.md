@@ -57,12 +57,14 @@
 | ------- |
 | [0066-plus-one](https://github.com/Sachein24/leetcode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sachein24/leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/Sachein24/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachein24/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Sachein24/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sachein24/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Sachein24/leetcode/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Sachein24/leetcode/tree/master/0706-design-hashmap) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Sachein24/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
