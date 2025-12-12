@@ -25,6 +25,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sachein24/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachein24/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sachein24/leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Sachein24/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sachein24/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Sachein24/leetcode/tree/master/0412-fizz-buzz) |
 ## String
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sachein24/leetcode/tree/master/0412-fizz-buzz) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sachein24/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
