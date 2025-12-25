@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Sachein24/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachein24/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachein24/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Sachein24/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Sachein24/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Sachein24/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Sachein24/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sachein24/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Sachein24/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
