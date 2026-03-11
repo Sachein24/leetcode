@@ -61,6 +61,7 @@
 | [0066-plus-one](https://github.com/Sachein24/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sachein24/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sachein24/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sachein24/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Sachein24/leetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sachein24/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Sachein24/leetcode/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,4 +138,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sachein24/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sachein24/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
